@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792226625045",
+    "project_id": "amofetch-v2ionic",
+    "storage_bucket": "amofetch-v2ionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792226625045:android:0ba0526548c99c5527001c",
+        "android_client_info": {
+          "package_name": "com.amofetchusa.amofetch_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792226625045-p1epn4smaohnbfrf085tvfr4rmb31b6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADT966hxFINvFBGD4-w30JFPWJEyT-TzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792226625045-p1epn4smaohnbfrf085tvfr4rmb31b6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
